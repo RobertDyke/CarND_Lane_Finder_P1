@@ -1,0 +1,9 @@
+Reflections on CarND-Term1-LaneLines-P1
+
+
+  I found this project to be quite tough. The algorithms and logic were not bad. The lectures explained most all of the theory very well. My problems were in setting up the environments, learning to use Jupyter Notebooks correctly, and minor problems from lack of experience with Python. Everything takes time to learn, and environment setup is almost always a royal pain. I'd like to suggest giving students the environment and tool requirements before the class starts. However, I could not have gotten the environments to work without access to the forums. And, you don't get access to the forums before the class starts. So short of extending the number of weeks in the term I don't see an improved solution. The best I can think to do is for me to contribute to answering the next cohorts' environment forum questions.
+  Discussions outside of Udacity on the web seem to view the finding lanes problem as the 'Hello World' problem of the self driving vehicle world. This is both terrifying and invigorating. Terrifying due to the complexity, but also invigorating due to coolness of the problems. 
+  As for the pipeline itself, it is reminiscent of the game play loop in game development. Each pass of the pipeline processes a bunch of data then looks for input from the player. Though the car pipeline is never looking for input from a user, it shares much familiarity. This suggests all of the problems of game-play development added to the problems of real world interfacing. 
+  Again this makes for some really cool problems to solve. I'm looking forward to it.
+
+Bob Dyke
